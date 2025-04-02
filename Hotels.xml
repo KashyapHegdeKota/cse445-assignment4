@@ -4,7 +4,7 @@
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>11</Number>
             <Street>E. 7th St</Street>
             <City>Tempe</City>
@@ -16,7 +16,7 @@
     <Hotel Rating="3.8">
         <Name>Wyndham</Name>
         <Phone>480-032-3244</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>1375</Number>
             <Street>E.University Dr</Street>
             <City>Tempe</City>
@@ -28,7 +28,7 @@
     <Hotel Rating="4.5">
         <Name>Caesars Palace</Name>
         <Phone>800-239-8344</Phone>
-        <Address NearestAirport="Harry Reid">
+        <Address NearstAirport="Harry Reid">
             <Number>3570</Number>
             <Street>S Las Vegas Blvd</Street>
             <City>Paradise</City>
@@ -40,7 +40,7 @@
     <Hotel Rating="4.4">
         <Name>Paris Las Vegas</Name>
         <Phone>877-123-4323</Phone>
-        <Address NearestAirport="Harry Reid">
+        <Address NearstAirport="Harry Reid">
             <Number>3665</Number>
             <Street>S Las Vegas Blvd</Street>
             <City>Paradise</City>
@@ -52,7 +52,7 @@
     <Hotel Rating="4.1">
         <Name>Arizona Biltmore</Name>
         <Phone>603-344-4534</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
         <Number>2400</Number>
         <Street>E. Missouri Avenue</Street>
         <City>Phoenix</City>
@@ -64,7 +64,7 @@
     <Hotel Rating="3.8">
         <Name>Sheraton Phoenix Downtown</Name>
         <Phone>609-239-4345</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
         <Number>340</Number>
         <Street>N. 3rd Street</Street>
         <City>Phoenix</City>
@@ -76,7 +76,7 @@
     <Hotel>
         <Name>Tempe Mission Palms</Name>
         <Phone>480-324-2344</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
         <Number>60</Number>
         <Street>E. 5th Street</Street>
         <City>Tempe</City>
@@ -88,7 +88,7 @@
     <Hotel Rating="4.3">
         <Name>MGM Grand</Name>
         <Phone>800-321-3223</Phone>
-        <Address NearestAirport="Harry Reid">
+        <Address NearstAirport="Harry Reid">
             <Number>3799</Number>
             <Street>S Las Vegas Blvd</Street>
             <City>Paradise</City>
@@ -100,7 +100,7 @@
     <Hotel Rating="4.3">
         <Name>MGM Grand</Name>
         <Phone>800-321-3223</Phone>
-        <Address NearestAirport="Harry Reid">
+        <Address NearstAirport="Harry Reid">
             <Number>3799</Number>
             <Street>S Las Vegas Blvd</Street>
             <City>Paradise</City>
@@ -112,7 +112,7 @@
     <Hotel Rating="4.3">
         <Name>Waldorf Astoria</Name>
         <Phone>212-123-456</Phone>
-        <Address NearestAirport="John F Kennedy">
+        <Address NearstAirport="John F Kennedy">
             <Number>301</Number>
             <Street>Park Ave</Street>
             <City>New York</City>
@@ -124,7 +124,7 @@
     <Hotel Rating="4.5">
         <Name>The Plaza</Name>
         <Phone>212-789-1011</Phone>
-        <Address NearestAirport="John F Kennedy">
+        <Address NearstAirport="John F Kennedy">
             <Number>768</Number>
             <Street>5th Ave</Street>
             <City>New York</City>
