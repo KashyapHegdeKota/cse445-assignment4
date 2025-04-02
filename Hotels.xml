@@ -16,7 +16,7 @@
     <Hotel Rating="3.8">
         <Name>Wyndham</Name>
         <Phone>480-032-3244</Phone>
-        <Address NearstAirport="Sky Harbor">
+        <Address NearstAirport="Sky Habor">
             <Number>1375</Number>
             <Street>E.University Dr</Street>
             <City>Tempe</City>
